@@ -1,0 +1,4 @@
+C:\Users\hasanvm\Desktop\StaticPractice\StaticPractice.Lesson\obj\Debug\net8.0\StaticPractice.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasanvm\Desktop\StaticPractice\StaticPractice.Lesson\obj\Debug\net8.0\StaticPractice.Lesson.AssemblyInfoInputs.cache
+C:\Users\hasanvm\Desktop\StaticPractice\StaticPractice.Lesson\obj\Debug\net8.0\StaticPractice.Lesson.AssemblyInfo.cs
+C:\Users\hasanvm\Desktop\StaticPractice\StaticPractice.Lesson\obj\Debug\net8.0\StaticPractice.Lesson.csproj.CoreCompileInputs.cache
